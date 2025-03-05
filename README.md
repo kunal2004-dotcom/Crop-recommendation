@@ -37,6 +37,8 @@ The Crop Recommendation System utilizes a RandomForestClassifier model, which is
 ## Colab link
 http://colab.research.google.com/drive/1ZTGaz4msuMP688GJ5deJSYjSF3T5hvaP
 
+![image](https://github.com/user-attachments/assets/51dbde44-c5d7-4ff4-9ce2-f94db109c108)
+
 ## Contributing
 
 Contributions to this project are welcome. Feel free to open issues or submit pull requests.
